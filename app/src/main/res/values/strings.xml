@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TP4 Productos</string>
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+    <string name="nav_header_title">Productos</string>
+    <string name="nav_header_subtitle">Trabajo práctico · 4</string>
+    <string name="nav_header_desc">Encabezado del menú</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="menu_cargar">Cargar</string>
+    <string name="menu_listar">Listar</string>
+    <string name="menu_exit">Salir</string>
+
+    <string name="label_code">Código</string>
+    <string name="label_description">Descripción</string>
+    <string name="label_price">Precio</string>
+    <string name="button_add_product">Agregar producto</string>
+    <string name="error_empty_field">Este campo no puede estar vacío</string>
+    <string name="error_duplicate_code">Ya existe un producto con ese código</string>
+    <string name="error_invalid_price">Ingresá solo números y un separador decimal (coma o punto)</string>
+    <string name="error_price_negative">El precio debe ser mayor o igual a 0</string>
+    <string name="success_product_added">Producto guardado</string>
+    <string name="exit_dialog_title">Salir</string>
+    <string name="exit_dialog_message">¿Querés cerrar la aplicación?</string>
+    <string name="exit_confirm">Sí</string>
+    <string name="exit_cancel">No</string>
+
+    <string name="card_item_code">Código: %1$s</string>
+    <string name="card_item_price">Precio: %1$s</string>
+
+    <string name="list_empty_message">Aún no hay productos cargados.\nEntrá en Cargar para agregar el primero.</string>
+
+    <string name="fab_content_description">Acción</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="list_padding_horizontal">12dp</dimen>
+    <dimen name="list_padding_vertical">12dp</dimen>
+    <dimen name="card_item_spacing">10dp</dimen>
+    <dimen name="card_inner_padding">20dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fragment_horizontal_margin">8dp</dimen>
+</resources>
